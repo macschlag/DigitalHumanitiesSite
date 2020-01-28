@@ -1,1 +1,1 @@
-# DHsite
+DigitalHumanitiesSite
